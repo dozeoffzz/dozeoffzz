@@ -11,6 +11,12 @@
 
 ## Skill
 
+<div align=center>
+   
+✅실내건축기사 ✅전산응용건축제도기능사 ✅ACP ✅GTQ 1급 ✅GTQ i 1급
+
+</div>
+
 ### * Illustrator
 
    ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
