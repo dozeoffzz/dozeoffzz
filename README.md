@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=C3B499&height=70&section=header&text=Hi%20there%20I'm%20dozeoffzz%20&fontColor=D0C5B1&fontSize=35&&stroke=C5A57D&fontAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=C3B499&height=300&section=header&text=Hi%20there%20I'm%20dozeoffzz%20&fontColor=D0C5B1&fontSize=35&&stroke=C5A57D&fontAlignY=50&animation=fadeIn)
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=D8C49F&height=70&section=footer&text=nice%20to%20meet%20you🫡&fontColor=D0C5B1&fontSize=35&stroke=C5A57D&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=D8C49F&height=300&section=footer&text=nice%20to%20meet%20you🫡&fontColor=D0C5B1&fontSize=35&stroke=C5A57D&animation=fadeIn)
 <!--
 **dozeoffzz/dozeoffzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
