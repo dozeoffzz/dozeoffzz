@@ -70,7 +70,9 @@ cooolluck_@naver.com
 
 instagram
 [@dozeoffzz](https://www.instagram.com/dozeoffzz/) |
+[@dozeonoo](https://www.instagram.com/dozeonoo/) |
 [@cooolluck](https://www.instagram.com/cooolluck/)
+
 
 <div align=center>
   
