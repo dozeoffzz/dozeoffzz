@@ -74,7 +74,7 @@ cooolluck247@gmail.com |
 cooolluck_@naver.com
 
 github
-https://github.com/dozeoffzz/dozeoffzz
+https://github.com/dozeoffzz
 
 instagram
 [@dozeoffzz](https://www.instagram.com/dozeoffzz/) |
