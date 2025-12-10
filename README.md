@@ -1,21 +1,20 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=a8caba&height=25&section=header&text=Hi&fontColor=5d4157&fontSize=20&stroke=ae8b9c&fontAlignY=50&fontAlignX=10&animation=fadeIn)
-
+<!--![header](https://capsule-render.vercel.app/api?type=soft&color=a8caba&height=25&section=header&text=Hi&fontColor=5d4157&fontSize=20&stroke=ae8b9c&fontAlignY=50&fontAlignX=10&animation=fadeIn)-->
+# wonhee's 😴 
+---
 </div>
 
-# <center>    dozeoffzz's 😴    </center>
-안녕하세요 공부중인 최원희 입니다.
 
-잘부탁드립니다.
-
-## Skill
-
-<div align=center>
    
+
+## License
+
 ✅실내건축기사 ✅전산응용건축제도기능사 ✅ACP ✅GTQ 1급 ✅GTQ i 1급
 
-</div>
+
+
+## Skill
 
 ### * Illustrator
 
