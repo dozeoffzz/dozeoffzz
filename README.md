@@ -64,7 +64,7 @@
   
 ## Contact
 
-Mail  cooolluck247@gmail.com | cooolluck_@naver.com
+Mail  [cooolluck247@gmail.com](cooolluck247@gmail.com) | [cooolluck_@naver.com](cooolluck_@naver.com)
 
 instagram [@dozeoffzz](https://www.instagram.com/dozeoffzz/) | [cooolluck](https://www.instagram.com/cooolluck/)
 
