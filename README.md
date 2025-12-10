@@ -40,7 +40,7 @@
 
   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-  **여기다가 넣어보고 저기다가 넣어보고 되면 땡큐 수준**
+  **여기넣고 저기넣고 하다가 되면 땡큐 수준**
 
 ### * JavaScript
 
