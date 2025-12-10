@@ -69,7 +69,7 @@
   
 ## Contact
 
-Mail
+e-Mail
 cooolluck247@gmail.com |
 cooolluck_@naver.com
 
