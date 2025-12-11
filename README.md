@@ -77,9 +77,9 @@ github
 https://github.com/dozeoffzz
 
 instagram
-[@dozeoffzz](https://www.instagram.com/dozeoffzz/) |
-[@dozeonoo](https://www.instagram.com/dozeonoo/) |
-[@cooolluck](https://www.instagram.com/cooolluck/)
+@dozeoffzz |
+@dozeonoo |
+@cooolluck
 
 
 
